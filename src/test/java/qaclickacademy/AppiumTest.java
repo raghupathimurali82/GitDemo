@@ -8,6 +8,10 @@ public class AppiumTest {
 	{
 		System.out.println("NativeAPpAndroid");
 		System.out.println("this is good example");
+		System.out.println("this is good example");
+		System.out.println("this is good example");
+		System.out.println("this is good example");
+		System.out.println("this is good example");
 	}
 	
 	@Test
